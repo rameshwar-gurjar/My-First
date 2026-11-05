@@ -34,5 +34,5 @@ A highly motivated **B.Com Graduate** with a strong foundation in Commerce, Fina
 ---
 
 ### 🤝 Let's Connect!
-- **LinkedIn:** [Insert Your LinkedIn Profile Link Here]
-- **Email:** [Insert Your Professional Email Address Here]
+- **LinkedIn:** (https://www.linkedin.com/in/rameshwargurjar)
+- **ORCID:** (https://orcid.org/0009-0005-4495-015X)
