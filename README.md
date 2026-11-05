@@ -29,7 +29,7 @@ A highly motivated **B.Com Graduate** with a strong foundation in Commerce, Fina
 ---
 
 ### 📊 GitHub Activity:
-![Your GitHub Stats](https://vercel.app)
+![Your GitHub Stats](https://github.com/rameshwar-gurjar))
 
 ---
 
